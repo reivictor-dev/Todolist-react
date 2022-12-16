@@ -1,0 +1,12 @@
+.task {
+    margin-left: 70px;
+}
+
+.task li {
+    font-size: 16px;
+    text-transform: uppercase;
+    margin: 0 80px 20px 20px;
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+}
